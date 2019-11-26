@@ -28,8 +28,8 @@
 
 
 # Adds a searchbar link
-#- title: Search
-#  search: true
+- title: Search
+  search: true
 
 # Divider for meta-pages and content page
 - divider: true
@@ -38,7 +38,7 @@
   url: /Tutorial_files/DataLoading
   not_numbered: true
 - title: Data Visualization
-  url:  /Tutorial_files/DataVisualization
+  url: /Tutorial_files/DataVisualization
   not_numbered: true
 - title: Rereferencing
   url: /Tutorial_files/ReferencingforEEGdata
