@@ -28,8 +28,8 @@
 
 
 # Adds a searchbar link
-- title: Search
-  search: true
+#- title: Search
+#  search: true
 
 # Divider for meta-pages and content page
 - divider: true
